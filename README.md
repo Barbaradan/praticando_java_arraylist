@@ -1,4 +1,4 @@
-# Praticando ArrayList e toString() em Java
+## Praticando ArrayList e toString() em Java
 Este repositório foi criado com o objetivo de praticar conceitos fundamentais da linguagem Java, com foco em:
 
 📌 ArrayList
